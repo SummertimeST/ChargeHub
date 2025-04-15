@@ -12,5 +12,5 @@ This project has been written and tested with Xeno. So we don't know if it would
 
 First of all, to use our script, you must use the function `loadstring` like below:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SummertimeST/ChargeHub/refs/heads/main/CH.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SummertimeST/ChargeHub/refs/heads/main/Charge Hub.lua"))()
 ```
