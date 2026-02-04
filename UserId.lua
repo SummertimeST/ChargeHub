@@ -1,3 +1,6 @@
-local UserId = {4005376840,8236777986,288111342,5141902117,57126743,2925171546}
+local UserId = {
+  [5085974725] = "Thitsadi",
+  [10458210171] = "IllllllIIIIlllIIIll1",
+}
 
 return UserId
